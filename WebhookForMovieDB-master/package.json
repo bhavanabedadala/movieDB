@@ -13,7 +13,7 @@
     "nodejs",
     "siddajmera"
   ],
-  "author": "Siddharth Ajmera (SiddAjmera)",
+  "author": "Bhavana",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
